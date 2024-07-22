@@ -14,9 +14,9 @@ public record Tasks(
 		String titulo,
 		String descricao,
 		LocalDateTime dataConclusao,
-		Prioridade prioridade,
+		Priority prioridade,
 		Boolean concluida,
-		Categoria categoria,
+		Category categoria,
 		Users user,
 		Categories categorie) {
 

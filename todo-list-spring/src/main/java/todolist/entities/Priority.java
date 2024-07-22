@@ -1,5 +1,5 @@
 package todolist.entities;
 
-public enum Prioridade {
+public enum Priority {
 
 }
