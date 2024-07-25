@@ -1,4 +1,4 @@
-package todolist.repositorys;
+package todolist.repositories;
 
 import java.util.UUID;
 
